@@ -20,7 +20,7 @@ import java.util.List;
 
 import static org.hamcrest.CoreMatchers.equalTo;
 
-
+@DisplayName("Создание заказа")
 public class CreateOrderTest {
 
     private UserClient userClient;

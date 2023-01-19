@@ -13,6 +13,7 @@ import site.stellarburgers.user.UserGenerator;
 
 import static org.hamcrest.CoreMatchers.equalTo;
 
+@DisplayName("Логин пользователя")
 public class LoginUserTest {
 
     private UserClient userClient;

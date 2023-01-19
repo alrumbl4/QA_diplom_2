@@ -11,6 +11,7 @@ import site.stellarburgers.user.UserGenerator;
 
 import static org.hamcrest.CoreMatchers.equalTo;
 
+@DisplayName("Создание пользователя")
 public class CreateUserTest {
 
     private UserClient userClient;

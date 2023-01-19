@@ -14,6 +14,7 @@ import site.stellarburgers.user.UserGenerator;
 import static org.hamcrest.CoreMatchers.*;
 import static org.hamcrest.core.AllOf.allOf;
 
+@DisplayName("Изменение данных пользователя")
 public class EditUserTest {
 
     private UserClient userClient;

@@ -18,6 +18,7 @@ import java.util.List;
 
 import static org.hamcrest.CoreMatchers.equalTo;
 
+@DisplayName("Получение списка заказов")
 public class GetingOrdersTest {
 
     public UserClient userClient;
