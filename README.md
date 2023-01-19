@@ -9,7 +9,7 @@
 
  ### API
 
- - [x] Запросы <code>GET</code>, <code>POST</code>, <code>PATCH</code> и <code>DELETE</code>
+ - [x] Запросы <code>GET</code>, <code>POST</code>, <code>PATCH</code> и <code>DELETE</code>:
 [x] 1. Создание пользователя
              * создание уникального пользователя
              * создание пользователя, который уже зарегистрирован
