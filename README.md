@@ -43,7 +43,7 @@
 <img width="6%" title="IntelliJ IDEA" src="images/idea_logo.svg">
 <img width="6%" title="Java" src="images/java_logo.svg">
 <img width="6%" title="Allure Report" src="images/allure_logo.svg">
-<img width="10%" title="Maven" src="images/maven_logo.png">
+<img width="15%" title="Maven" src="images/maven_logo.png">
 <img width="6%" title="JUnit4" src="images/junit_logo.png">
 <img width="6%" title="GitHub" src="images/github_logo.svg">
 <img width="6%" title="Rest Assured" src="images/rest_logo.svg">
