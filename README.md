@@ -40,8 +40,8 @@
  ## <img width="4%" title="Technologies" src="images/techno_logo.png"> Технологический стек
  
 <p align="center">
-<img width="6%" title="IntelliJ IDEA" src="images/java_logo.svg">
-<img width="6%" title="Java" src="images/Java.svg">
+<img width="6%" title="IntelliJ IDEA" src="images/idea_logo.svg">
+<img width="6%" title="Java" src="images/java_logo.svg">
 <img width="6%" title="Allure Report" src="images/allure_logo.svg">
 <img width="6%" title="Maven" src="images/maven_logo.png">
 <img width="6%" title="JUnit4" src="images/junit_logo.png">
