@@ -36,4 +36,21 @@
  <p align="center">
  <img title="Allure_report" src="images/allure_report.png">
  </p>
- 
+ ## <img width="4%" title="Technologies" src="images/techno_logo.png"> Технологический стек
+<p align="center">
+<img width="6%" title="IntelliJ IDEA" src="images/java_logo.svg">
+<img width="6%" title="Java" src="images/logo/Java.svg">
+<img width="6%" title="Allure Report" src="images/allure_logo.svg">
+<img width="6%" title="Maven" src="images/maven_logo.png">
+<img width="6%" title="JUnit4" src="images/junit_logo.png">
+<img width="6%" title="GitHub" src="images/github_logo.svg">
+<img width="6%" title="Rest Assured" src="images/rest_logo.svg">
+</p>
+> В данном проекте автотесты написаны на <code>Java</code> с использованием библиотеки <code>REST Assured</code> для API-тестов.
+>
+> <code>Allure Report</code> формирует отчет о запуске тестов.
+>
+> Для автоматизированной сборки проекта используется <code>Maven</code>.
+>
+> В качестве библиотеки для модульного тестирования используется <code>JUnit 4</code>.
+>
