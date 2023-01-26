@@ -54,7 +54,7 @@
 >
  
  
- ## <img width="-3%" title="Report" src="images/report.png"> Отчет о результатах тестирования в Allure Report
+ ## <img width="3%" title="Report" src="images/report.png"> Отчет о результатах тестирования в Allure Report
  ### :dart: Главная страница Allure-отчета
  <p align="center">
  <img title="Allure_report" src="images/allure_report.png">
