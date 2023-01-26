@@ -31,13 +31,8 @@
           - неавторизованный пользователь
  - [x] Отображение и соответствие <code>statusCode</code> в ответе запроса
  - [x] Отображение и соответствие <code>body</code> в ответа запроса				
- ## Отчет о результатах тестирования в Allure Report
- ### :dart: Главная страница Allure-отчета
- <p align="center">
- <img title="Allure_report" src="images/allure_report.png">
- </p>
  
- ## <img width="4%" title="Technologies" src="images/techno_logo.png"> Технологический стек
+  ## <img width="4%" title="Technologies" src="images/techno_logo.png"> Технологический стек
  
 <p align="center">
 <img width="6%" title="IntelliJ IDEA" src="images/idea_logo.svg">
@@ -57,3 +52,9 @@
 >
 > В качестве библиотеки для модульного тестирования используется <code>JUnit 4</code>.
 >
+ 
+ ## Отчет о результатах тестирования в Allure Report
+ ### :dart: Главная страница Allure-отчета
+ <p align="center">
+ <img title="Allure_report" src="images/allure_report.png">
+ </p>
